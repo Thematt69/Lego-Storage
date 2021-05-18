@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "977705245739",
+    "project_id": "lego-storage-b4586",
+    "storage_bucket": "lego-storage-b4586.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:977705245739:android:c0891020060c6cf4dc5e6e",
+        "android_client_info": {
+          "package_name": "fr.thematt69.lego_storage"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "977705245739-3cnlvalg75uinq3sviephjp88fr9h3op.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC9uyjvM954G1u3pqbwiEcuGrFA9iXCJRw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "977705245739-3cnlvalg75uinq3sviephjp88fr9h3op.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
