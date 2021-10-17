@@ -26,7 +26,6 @@ jobs:
     - run: dart analyze
     - run: flutter pub get
     - run: flutter config --no-analytics
-    - run: flutter doctor --android-licenses
     - run: flutter doctor -v
     - run: flutter analyze
     - run: flutter build apk
