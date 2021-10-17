@@ -1,0 +1,13 @@
+include: package:lint/analysis_options.yaml
+
+analyzer:
+  exclude:
+    - "**/*.g.dart"
+    - "**/*.freezed.dart"
+    - "lib/generated_plugin_registrant.dart"
+
+# Not happy with the default? Customize the rules depending on your needs.
+# Here are some examples:
+linter:
+  rules:
+    avoid_print: false
